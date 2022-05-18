@@ -4,7 +4,7 @@
 <img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Gazé2.jpg"  align="right" width="340">
 
 ### Email: 
-victor.cazalis [at] idiv.de
+daniela.hoss [at] idiv.de
 
 Feel free to get in touch!
 
