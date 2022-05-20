@@ -1,15 +1,15 @@
 ## About
-[Google Scholar](https://scholar.google.com/citations?user=t42adKwAAAAJ&hl=fr&oi=sra)  \|  [ORCID](https://orcid.org/0000-0003-0850-883X)  \|  [Publons](https://publons.com/researcher/1605670/victor-cazalis/)
+[Google Scholar](https://scholar.google.com/)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
 <img style="padding: 0 15px; float: right;" src="https://hossdaniela.github.io/Daniela Hoss git.jpeg" align="right" width="220">
                                       
 
+I am a Brazilian researcher in Ecology, currently working on Plant Ecology and Biodiversity and Ecosystem Functioning as a result of my interest in conservation and sustainability. My research focus is on the influence of climate change in plant communities. I also have interests in ecological restoration and ecology of invasive plants.
 
-I am a French researcher in Conservation Biology, with particular interests in international conservation, conservation effectiveness, IUCN Red List and birds. My profile combines strong spatial analytic skills (e.g., crossing large database of biodiversity data with habitat data), enthuasiam in academic writing and a naturalist background (mainly birdwatching).
 
-Feb.2021 - Jan.2023: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [sRedList project](https://www.idiv.de/en/sredlist.html) to develop an innovative and consistent framework for prioritising the updates of Red List assessments. This project is led by [Luca Santini](http://lucasantini.com/) and [Moreno Di Marco](https://www.biodiversitychange.com).
+Jan.2022 - Jan.2024: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [Biodiversity Synthesis](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html) .
 
-Oct.2017 - Nov.2020: **PhD student** at the [Centre for Functional and Evolutionary Ecology (CEFE)](https://www.cefe.cnrs.fr/en/) in Montpellier, working with [Ana S.L. Rodrigues](https://www.cefe.cnrs.fr/fr/recherche/bc/dpb/862-c/228-ana-rodrigues) on protected area effectiveness. I graduated on the 9th of November 2020 and my PhD thesis (partly in French) can be found [here](http://theses.fr/2020MONTG019/document).
+Mar.2017 - Nov.2020: **PhD student** at the [Centre for Functional and Evolutionary Ecology (CEFE)](https://www.cefe.cnrs.fr/en/) in Montpellier, working with [Ana S.L. Rodrigues](https://www.cefe.cnrs.fr/fr/recherche/bc/dpb/862-c/228-ana-rodrigues) on protected area effectiveness. I graduated on the 9th of November 2020 and my PhD thesis (partly in French) can be found [here](http://theses.fr/2020MONTG019/document).
 
 When I'm not in the lab, I enjoy hiking and birding (especially in the mountains), playing music (double bass and piano) or handcrafting stuff.
 
