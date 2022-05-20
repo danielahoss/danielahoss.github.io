@@ -1,7 +1,8 @@
 ## Contact information
 
 
-<img style="padding: 0 15px; float: right;" src="https://victorcazalis.github.io/Gazé2.jpg"  align="right" width="340">
+<img style="padding: 0 15px; float: right;" src="https://
+hossdaniela.github.io/."  align="right" width="340">
 
 ### Email: 
 daniela.hoss [at] idiv.de
