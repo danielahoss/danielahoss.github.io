@@ -1,6 +1,6 @@
 ## Publications
 
-[Google Scholar](https://scholar.google.com/citations?)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
+[Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
 
 ### Peer-reviewed articles
