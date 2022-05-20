@@ -9,11 +9,9 @@ I am a Brazilian researcher in Ecology, currently working on Plant Ecology and B
 
 Jan.2022 - Jan.2024: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [Biodiversity Synthesis](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html) .
 
-Mar.2017 - Nov.2020: **PhD student** at the [Centre for Functional and Evolutionary Ecology (CEFE)](https://www.cefe.cnrs.fr/en/) in Montpellier, working with [Ana S.L. Rodrigues](https://www.cefe.cnrs.fr/fr/recherche/bc/dpb/862-c/228-ana-rodrigues) on protected area effectiveness. I graduated on the 9th of November 2020 and my PhD thesis (partly in French) can be found [here](http://theses.fr/2020MONTG019/document).
+Mar.2017 - Nov.2021: **PhD student** at the [Centre for Functional and Evolutionary Ecology (CEFE)](https://www.cefe.cnrs.fr/en/) in Montpellier, working with [Ana S.L. Rodrigues](https://www.cefe.cnrs.fr/fr/recherche/bc/dpb/862-c/228-ana-rodrigues) on protected area effectiveness. I graduated on the 9th of November 2020 and my PhD thesis (partly in French) can be found [here](http://theses.fr/2020MONTG019/document).
 
-When I'm not in the lab, I enjoy hiking and birding (especially in the mountains), playing music (double bass and piano) or handcrafting stuff.
-
-More detail can be found in my [CV](/CV.pdf) (last update January 2022).
+More detail can be found in my [CV](/CV.pdf) (last update May 2022).
 
 
 
