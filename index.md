@@ -1,7 +1,7 @@
 ## About
 [Google Scholar](https://scholar.google.com/)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
-<img style="padding: 0 15px; float: right;" src="https://hossdaniela.github.io/profile_DH.jpg" align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="profile_DH.jpg" align="right" width="220">
                                       
 
 I am a Brazilian researcher in Ecology, currently working on Plant Ecology and Biodiversity and Ecosystem Functioning as a result of my interest in conservation and sustainability. My research focus is on the influence of climate change in plant communities. I also have interests in ecological restoration and ecology of invasive plants.
@@ -15,6 +15,6 @@ More detail can be found in my [CV](/XX.pdf) (last update May 2022).
 
 
 
- <img src="https://hossdaniela.github.io/rem1.jpeg"  align="center" width="700">
+ <img src="rem1.jpeg"  align="center" width="700">
 
 
