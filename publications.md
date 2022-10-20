@@ -6,8 +6,7 @@
 
 ### 2022
 
-* **Daniela Hoss**, Aline Richter, Eduardo Vélez-Martin, et al. Grassland stability: the role of biodiversity in the face of climate change. Authorea. October 20, 2022.
-DOI: 10.22541/au.166627302.27738942/v1. (Authorea Pre-Print Server)
+* **Daniela Hoss**, Aline Richter, Eduardo Vélez-Martin, Luciana Menezes, Gerhard Overbeck, Vanderlei Debastiani & Valério Pillar. Grassland stability: the role of biodiversity in the face of climate change. Authorea. October 20, 2022. (Authorea Pre-Print Server) (https://doi.org/10.22541/au.166627302.27738942/v1)
 
 * Jorge, BCS; Fischer, FM; Debastiani, VJ; **Hoss, D**; Pillar, VD, & Winck, B. 2022. Effects of defoliation frequencies on above- and belowground biodiversity and ecosystem processes in subtropical grasslands of southern Brazil. **Pedobiologia** 90: 150786.
 
