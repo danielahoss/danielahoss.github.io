@@ -20,4 +20,4 @@
 
 * Guido, A; **Hoss, D**; Pillar, VD. 2017. [Exploring seed to seed effects for understanding invasive species success](http://dx.doi.org/10.1016/j.pecon.2017.07.006) **Perspectives in Ecology and Conservation**
 
-* **Hoss, D**; Valente, AL; Ott, PH. 2017. [Gastrointestinal helminths of the Franciscana *Pontoporia blainvillei* (Mammalia: Cetartiodactyla) in the northern coast of Rio Grande Do Sul state, southern Brazil](https://doi.org/10.4257/oeco.2017.2101.08) **Oecologia Australis**
+* **Hoss, D**; Valente, AL; Ott, PH. 2017. [Gastrointestinal helminths of the Franciscana *Pontoporia blainvillei* (Mammalia: Cetartiodactyla) in the northern coast of Rio Grande do Sul state, southern Brazil](https://doi.org/10.4257/oeco.2017.2101.08) **Oecologia Australis**
