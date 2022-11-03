@@ -6,7 +6,7 @@
 
 ### 2022
 
-* **Daniela Hoss**, Aline Richter, Eduardo Vélez-Martin, Luciana Menezes, Gerhard Overbeck, Vanderlei Debastiani & Valério D. Pillar. October 20, 2022. (Authorea Pre-Print Server) [Stabilizing effect of biodiversity on grassland productivity under climate anomalies depends on the communities' resource use strategy](https://doi.org/10.22541/au.166627302.27738942/v1)
+* **Daniela Hoss**, Aline Richter, Eduardo Vélez-Martin, Luciana Menezes, Gerhard Overbeck, Vanderlei Debastiani & Valério D. Pillar. October 20, 2022. (Authorea Pre-Print Server) [Stabilizing effects of biodiversity on grassland productivity under climate anomalies depend on the communities' resource use strategy](DOI: 10.22541/au.166627302.27738942/v3)
 
 * Jorge, BCS; Fischer, FM; Debastiani, VJ; **Hoss, D**; Pillar, VD, & Winck, B. 2022. [Effects of defoliation frequencies on above- and belowground biodiversity and ecosystem processes in subtropical grasslands of southern Brazil](https://doi.org/10.1016/j.pedobi.2021.150786) **Pedobiologia**
 
