@@ -9,7 +9,7 @@ I am a Brazilian Postdoc researcher in Ecology in the [sDiv](https://www.idiv.de
 
 Jan.2022 - Jan.2024: **Post-Doc position** at [iDiv](https://www.idiv.de/en/sdiv.html), working in the [Biodiversity Synthesis](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html).
 
-Mar.2017 - Nov.2021: **PhD student** at the [Universidade Federal do Rio Grande do Sul, Department of Ecology (PT)](https://www.ufrgs.br/ppgecologia/)/ [EN](https://www.ufrgs.br/ppgecologia/en/) in Porto Alegre, working with [Valério Pillar](http://ecoqua.ecologia.ufrgs.br/main.html) on Grassland vegetation ecology.
+Mar.2017 - Nov.2021: **PhD student** at the [Universidade Federal do Rio Grande do Sul, Department of Ecology (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/) in Porto Alegre, working with [Valério Pillar](http://ecoqua.ecologia.ufrgs.br/main.html) on Grassland vegetation ecology.
 
 More detail can be found in my [CV](/XX.pdf) (last update May 2022).
 
