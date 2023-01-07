@@ -11,8 +11,6 @@ Jan.2022 - Jan.2024: **Postdoc position** in the [sDiv](https://www.idiv.de/en/s
 
 Mar.2017 - Nov.2021: **PhD student** at the [Universidade Federal do Rio Grande do Sul, Department of Ecology (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/) in Porto Alegre, working with [Valério D. Pillar](https://www.researchgate.net/profile/Valerio-Pillar) on Grassland vegetation ecology.
 
-More detail can be found in my [CV](/XX.pdf) (last update May 2022).
-
 
 
  <img src="rem1.jpeg"  align="center" width="700">
