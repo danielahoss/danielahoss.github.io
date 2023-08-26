@@ -4,4 +4,4 @@ During my PhD, I was invited to talk about the effects of climatic anomalies on 
 
 
 ### Rio Grande do Sul: Impacto das mudanças climáticas no bioma Pampas 
-Climate change and researchers from [YCL](https://youtu.be/LAg2nEbgleQ) (PT)
+[Climate change and researchers from YCL](https://youtu.be/LAg2nEbgleQ) (PT)
