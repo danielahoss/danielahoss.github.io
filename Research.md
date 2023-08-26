@@ -8,6 +8,7 @@ My research focuses on understanding how taxonomic and functional facets of biod
 The main project I'm currently working on is a synthesis to directly examine the effects of plant species loss on productivity.
 
 
-### Other projects
+### Other projects & community service
 I am one of the leading creators of a successful initiative (iFS - iDiv Female Scientists) to establish female networking, funded by the [iDiv Female Scientists Career Fund](https://www.idiv.de/en/about-idiv/support-for-scientists/female-career-fund.html). With this initiative, we aim to foster female scientists' networking, training on specific skills, and bringing awareness about leaky pipelines to the academic community. Since April 2023, monthly networking lunch meetings have been happening every 1st Thursday. We also have an extra monthly event, such as a movie session, coaching, an expert talk, or a workshop. 
 [Contact me](https://danielahoss.github.io/Contact) if you are interested! 
+
