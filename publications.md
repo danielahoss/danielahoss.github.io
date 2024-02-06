@@ -2,6 +2,10 @@
 
 [Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
+### 2024
+
+* Smith, M.D., Wilkins, K.D., Holdrege, M.C., Wilfahrt, P., Collins, S.L., Knapp, A.K., Sala, O.E., Dukes, J.S., Phillips, R.P., Yahdjian, L., Gherardi, L.A., Ohlert, T., Beier, C., Fraser, L.H., Jentsch, A., ..., **Hoss, D.**, ... & Zuo, X. 2024. *Proceedings of the National Academy of Sciences* [Extreme drought impacts have been underestimated in grasslands and shrublands globally.](https://www.pnas.org/doi/10.1073/pnas.2309881120)
+
 
 ### 2023
 
