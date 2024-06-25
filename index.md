@@ -1,4 +1,4 @@
-## About
+## About me
 [Google Scholar](https://scholar.google.com/)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
 <img style="padding: 0 15px; float: right;" src="profile_DH.jpg" align="right" width="220">
