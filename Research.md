@@ -9,6 +9,6 @@ The main project I'm currently working on is a synthesis to directly examine the
 
 
 ### Other projects & community service
-I am one of the leading creators of a successful initiative (iFS - iDiv Female Scientists) to establish female networking, funded by the [iDiv Female Scientists Career Fund](https://www.idiv.de/en/about-idiv/support-for-scientists/female-career-fund.html). With this initiative, we aim to foster female scientists' networking, training on specific skills, and bringing awareness about leaky pipelines to the academic community. Since April 2023, monthly networking lunch meetings have been happening every 1st Thursday. We also have an extra monthly event, such as a movie session, coaching, an expert talk, or a workshop. 
+I am one of the PIs of the successful iDiv Female Scientists initiative. This initiative was created to connect women researchers, provide training on specific skills, raise awareness about gender inequalities, and improve working conditions. It is an autonomous initiative funded by the [iDiv Female Scientists Career Fund](https://www.idiv.de/en/about-idiv/support-for-scientists/female-career-fund.html). 
+Since April 2023, we have held monthly networking lunch meetings. Additionally, we organize an extra monthly event, such as a movie session, an expert talk, or a workshop.
 [Contact me](https://danielahoss.github.io/Contact) if you are interested! 
-
