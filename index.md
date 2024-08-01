@@ -14,7 +14,7 @@ I am a grassland ecologist with a particular interest in biodiversity changes du
 
 Jan 2022 - now: **Postdoc** in the [sDiv](https://www.idiv.de/en/sdiv.html) Synthesis Centre at [iDiv](https://www.idiv.de/en/sdiv.html), working in collaboration with [Prof Dr. Helge Bruelheide](https://www.botanik.uni-halle.de/geobotanik/helge_bruelheide/), [Prof Dr. Jonathan Chase](https://www.idiv.de/en/groups-and-people/core-groups/synthesis.html), and [Prof. Dr. Valério Pillar](https://www.researchgate.net/profile/Valerio-Pillar). (Germany)
 
-Mar 2017 - Nov 2021: **PhD** at [Department of Ecology. Universidade Federal do Rio Grande do Sul (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/). (Brazil)
+Mar 2017 - Nov 2021: **PhD** at [Dept of Ecology. Universidade Federal do Rio Grande do Sul (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/). (Brazil)
 
 
  <img src="rem1.jpeg"  align="center" width="700">
