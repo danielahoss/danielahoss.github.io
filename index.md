@@ -6,7 +6,7 @@
 
 **Daniela Hoss, PhD**
 
-*Postdoctoral Researcher, [iDiv](https://www.idiv.de/en/sdiv.html) - German Centre for Integrative Biodiversity Research [sDiv](https://www.idiv.de/en/sdiv.html)*
+*Postdoctoral Researcher, [iDiv](https://www.idiv.de/en/sdiv.html) - German Centre for Integrative Biodiversity Research*
 
 I am a grassland ecologist with a particular interest in biodiversity changes during the Anthropocene. My research focuses on understanding the relationships between biodiversity and ecosystem functioning, particularly how these relationships are affected by species loss and climate change. To explore these topics, I employ experimental and observational studies and am particularly enthusiastic about removal experiments. Additionally, I am interested in ecological restoration and the ecology of invasive plants.
 
