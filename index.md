@@ -1,7 +1,7 @@
 ## About me
 [Google Scholar](https://scholar.google.com/)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
-<img style="padding: 0 15px; float: right;" src="Profile_2024.jpg" align="right" width="220">
+<img style="padding: 0 15px; float: right;" src="Profile_2024.jpeg" align="right" width="220">
                                       
 
 **Daniela Hoss, PhD**
