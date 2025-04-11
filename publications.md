@@ -2,14 +2,19 @@
 
 [Google Scholar](https://scholar.google.com/xxx)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
+### 2025
+
+* Sreetama Bhadra, Gabriella Damasceno, **Daniela Hoss**, Alexandra Weyrich. 2025. *eLife* [Equity, Diversity and Inclusion: Improving gender equity in academia depends on the workplace environment](https://elifesciences.org/articles/105352#info)
+
+    
 ### 2024
 
-* Smith, M.D., Wilkins, K.D., Holdrege, M.C., Wilfahrt, P., Collins, S.L., Knapp, A.K., Sala, O.E., Dukes, J.S., Phillips, R.P., Yahdjian, L., Gherardi, L.A., Ohlert, T., Beier, C., Fraser, L.H., Jentsch, A., ..., **Hoss, D.**, ... & Zuo, X. 2024. *Proceedings of the National Academy of Sciences* [Extreme drought impacts have been underestimated in grasslands and shrublands globally.](https://www.pnas.org/doi/10.1073/pnas.2309881120)
+* Smith, M.D., Wilkins, K.D., Holdrege, M.C., Wilfahrt, P., Collins, S.L., Knapp, A.K., Sala, O.E., Dukes, J.S., Phillips, R.P., Yahdjian, L., Gherardi, L.A., Ohlert, T., Beier, C., Fraser, L.H., Jentsch, A., ..., **Hoss, D.**, ... & Zuo, X. 2024. *Proceedings of the National Academy of Sciences* [Extreme drought impacts have been underestimated in grasslands and shrublands globally](https://www.pnas.org/doi/10.1073/pnas.2309881120)
 
 
 ### 2023
 
-* Engel, T., Bruelheide, H., **Hoss, D.**, Sabatini, F.M., Altman, J., Arfin-Khan, M.A.S., Bergmeier, E., Černý, T., Chytrý, M., Dainese, M., Dengler, J., Dolezal, J., Field, R., Fischer, F.M., Huygens, D., Jandt, U., Jansen, F., Jentsch, A., Karger, D.N., Kattge, J., Lenoir, J., Lens, F., Loos, J., Niinemets, Ü., Overbeck, G.E., Ozinga, W.A., Penuelas, J., Peyre, G., Phillips, O., Reich, P.B., Römermann, C., Sandel, B., Schmidt, M., Schrodt, F., Velez-Martin, E., Violle, C., & Pillar, V. 2023. *Global Ecology and Biogeography* [Traits of dominant plant species drive normalized difference vegetation index in grasslands globally.](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13644)
+* Engel, T., Bruelheide, H., **Hoss, D.**, Sabatini, F.M., Altman, J., Arfin-Khan, M.A.S., Bergmeier, E., Černý, T., Chytrý, M., Dainese, M., Dengler, J., Dolezal, J., Field, R., Fischer, F.M., Huygens, D., Jandt, U., Jansen, F., Jentsch, A., Karger, D.N., Kattge, J., Lenoir, J., Lens, F., Loos, J., Niinemets, Ü., Overbeck, G.E., Ozinga, W.A., Penuelas, J., Peyre, G., Phillips, O., Reich, P.B., Römermann, C., Sandel, B., Schmidt, M., Schrodt, F., Velez-Martin, E., Violle, C., & Pillar, V. 2023. *Global Ecology and Biogeography* [Traits of dominant plant species drive normalized difference vegetation index in grasslands globally](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13644)
 
 
 ### 2022
