@@ -9,7 +9,7 @@
 *Postdoctoral Researcher, [iDiv](https://www.idiv.de/en/sdiv.html) - German Centre for Integrative Biodiversity Research*
 
 
-I’m a cat lover and grassland ecologist intrigued by how biodiversity changes in the Anthropocene shape our ecosystems. My research explores the complex relationships between biodiversity and ecosystem functioning, with a focus on how species loss and climate extremes influence these dynamics.
+I’m a cat lover and grassland ecologist intrigued by how biodiversity changes in the Anthropocene shape our ecosystems. My research examines the complex relationships between biodiversity and ecosystem functioning, with a focus on how species loss and climate extremes influence these dynamics.
 To address these challenges, I use a combination of observational, experimental, and synthesis approaches, with a particular enthusiasm for experiments that simulate scenarios of species extinction.
 
 
