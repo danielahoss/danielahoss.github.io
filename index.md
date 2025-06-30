@@ -4,7 +4,6 @@
 <img style="padding: 0 15px; float: right;" src="Profile_2024.jpeg" align="right" width="220">
                                       
 
-**Daniela Hoss, PhD**
 
 *Postdoctoral Researcher, [iDiv](https://www.idiv.de/en/sdiv.html) - German Centre for Integrative Biodiversity Research*
 
