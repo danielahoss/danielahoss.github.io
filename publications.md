@@ -4,12 +4,15 @@
 
 ### 2025
 
-* Sreetama Bhadra, Gabriella Damasceno, **Daniela Hoss**, Alexandra Weyrich. 2025. *eLife* [Equity, Diversity and Inclusion: Improving gender equity in academia depends on the workplace environment](https://elifesciences.org/articles/105352#info)
+* Ohlert, T. ,Smith, M.D., ..., **Hoss, D.**, ... et al. 2025. *Science* [Drought intensity and duration interact to magnify losses in primary productivity](https://www.science.org/doi/pdf/10.1126/science.ads8144)
+
+* Bhadra, S.†, Damasceno, G.†, **Hoss, D.†**, Weyrich, A.† 2025. †These authors contributed
+equally to this work *eLife* [Equity, Diversity and Inclusion: Improving gender equity in academia depends on the workplace environment](https://elifesciences.org/articles/105352#info)
 
     
 ### 2024
 
-* Smith, M.D., Wilkins, K.D., Holdrege, M.C., Wilfahrt, P., Collins, S.L., Knapp, A.K., Sala, O.E., Dukes, J.S., Phillips, R.P., Yahdjian, L., Gherardi, L.A., Ohlert, T., Beier, C., Fraser, L.H., Jentsch, A., ..., **Hoss, D.**, ... & Zuo, X. 2024. *Proceedings of the National Academy of Sciences* [Extreme drought impacts have been underestimated in grasslands and shrublands globally](https://www.pnas.org/doi/10.1073/pnas.2309881120)
+* Smith, M.D., Wilkins, K.D., Holdrege, M.C., Wilfahrt, P., ..., **Hoss, D.**, ... et al. 2024. *Proceedings of the National Academy of Sciences* [Extreme drought impacts have been underestimated in grasslands and shrublands globally](https://www.pnas.org/doi/10.1073/pnas.2309881120)
 
 
 ### 2023
