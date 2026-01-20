@@ -5,9 +5,9 @@
 hossdaniela.github.io/."  align="right" width="340">
 
 ### Email: 
-daniela.hoss [at] idiv.de
+daniela.hoss [at] idiv[dot]de
 
-Feel free to get in touch!
+
 
 
 
