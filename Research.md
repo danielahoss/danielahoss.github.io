@@ -5,7 +5,7 @@ My research focuses on understanding how taxonomic and functional facets of biod
 
 
 ## Research projects
-The main project I'm currently working on is an evidence synthesis that directly examines the effects of the proportion of plant species loss on productivity. You can find more about my academic life in my [short CV] 
+The main project I'm currently working on is an evidence synthesis that directly examines the effects of the proportion of plant species loss on productivity. You can find more about my academic life in my [short CV](ShortCV_DanielaHoss_CV_20260102.pdf)
 
 
 
