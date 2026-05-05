@@ -4,13 +4,13 @@
 <img style="padding: 0 15px; float: right;" src="profile.jpeg" align="right" width="220">
                                       
 
-Jan 2022 - now: Postdoctoral Researcher in the Synthesis Centre [sDiv](https://www.idiv.de/en/sdiv.html) at the German Centre for Integrative Biodiversity Research [iDiv](https://www.idiv.de/en/sdiv.html) Halle-Jena-Leipzig, Leipzig, Germany
+I am a plant community ecologist working on grassland diversity and ecosystem functioning. My research investigates how naturally assembled communities, particularly species relative abundances and trait-based diversity, moderate productivity in grasslands, and how these relationships are affected by species extirpations and extreme climatic events. I use manipulative field experiments, statistical modelling, and evidence synthesis to understand the mechanisms underlying community assembly and ecosystem responses to change. I am also actively involved in initiatives promoting equity in science, with a particular focus on women and early-career researchers.
 
-I am a plant community ecologist working on grassland diversity and ecosystem functioning. My research investigates how naturally assembled communities, particularly species relative abundances and trait-based diversity, moderate productivity in grasslands, and how these relationships are affected by species extirpations and extreme climatic events. I use manipulative field experiments, statistical modelling, and evidence synthesis to understand the mechanisms underlying community assembly and ecosystem responses to change. I am also involved in initiatives to promote equity in science, particularly for women and early-career researchers.
+Jan 2026 - present: iDiv guest researcher
 
+Jan 2022 - Dec 2025: Postdoctoral Researcher in the Synthesis Centre [sDiv](https://www.idiv.de/en/sdiv.html) at the German Centre for Integrative Biodiversity Research [iDiv](https://www.idiv.de/en/sdiv.html) Halle-Jena-Leipzig, Leipzig, Germany
 
-
-Mar 2017 - Nov 2021: **PhD** at [Dept of Ecology. Universidade Federal do Rio Grande do Sul (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/). (Brazil)
+Mar 2017 - Nov 2021: **PhD**, Dept of Ecology. Universidade Federal do Rio Grande do Sul, Brazil [(PT)](https://www.ufrgs.br/ppgecologia/) [(EN)](https://www.ufrgs.br/ppgecologia/en/)
 
 
  <img src="rem1.jpeg"  align="center" width="700">
