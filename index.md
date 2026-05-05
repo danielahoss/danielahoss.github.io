@@ -6,7 +6,10 @@
 
 Jan 2022 - now: Postdoctoral Researcher in the Synthesis centre [sDiv](https://www.idiv.de/en/sdiv.html) at the German Centre for Integrative Biodiversity Research [iDiv](https://www.idiv.de/en/sdiv.html) Halle-Jena-Leipzig, Leipzig, Germany
 
-I’m a community ecologist (and a cat lover) intrigued by how biodiversity changes in the Anthropocene affect ecosystems. My research examines the complex relationships between biodiversity and ecosystem functioning in grasslands, focusing on how species loss and climate extremes influence these dynamics. To investigate these processes, I combine observational, experimental, and evidence synthesis approaches—with particular enthusiasm for experiments that simulate scenarios of species extinction.
+I am a plant community ecologist working on grassland diversity and ecosystem functioning. My research investigates how naturally assembled communities, particularly species relative abundances and trait-based diversity, moderate productivity in grasslands, and how these relationships are affected by species extirpations and extreme climatic events. I use manipulative field experiments, statistical modelling, and cross-site synthesis to understand the mechanisms underlying community assembly and ecosystem responses to these changes. I am also involved in initiatives to promote equity in science, particularly for women and early-career researchers.
+
+<img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/eb5b833c-e259-4773-833a-0eb67d676404" />
+
 
 Mar 2017 - Nov 2021: **PhD** at [Dept of Ecology. Universidade Federal do Rio Grande do Sul (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/). (Brazil)
 
