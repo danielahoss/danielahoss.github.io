@@ -8,7 +8,6 @@ Jan 2022 - now: Postdoctoral Researcher in the Synthesis centre [sDiv](https://w
 
 I am a plant community ecologist working on grassland diversity and ecosystem functioning. My research investigates how naturally assembled communities, particularly species relative abundances and trait-based diversity, moderate productivity in grasslands, and how these relationships are affected by species extirpations and extreme climatic events. I use manipulative field experiments, statistical modelling, and cross-site synthesis to understand the mechanisms underlying community assembly and ecosystem responses to these changes. I am also involved in initiatives to promote equity in science, particularly for women and early-career researchers.
 
-<img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/eb5b833c-e259-4773-833a-0eb67d676404" />
 
 
 Mar 2017 - Nov 2021: **PhD** at [Dept of Ecology. Universidade Federal do Rio Grande do Sul (PT)](https://www.ufrgs.br/ppgecologia/)/ [(EN)](https://www.ufrgs.br/ppgecologia/en/). (Brazil)
