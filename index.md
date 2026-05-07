@@ -1,3 +1,5 @@
+ <meta http-equiv="refresh" content="0; url=https://danielahoss.netlify.app">
+
 ## About me
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=sYbqU_wAAAAJ)  \|  [ORCID](https://orcid.org/0000-0002-6766-3904)  \|  [Publons](https://publons.com/researcher/1910318/daniela-hoss/)
 
